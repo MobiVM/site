@@ -13,13 +13,13 @@ To install the MobiVM plugin for IntelliJ IDEA or Android Studio you have two op
 ### 1. Plugin Marketplace (Recommended)
 Stable release plugin versions are available from the Jetbrains Plugin Marketplace:
 
-1. Install Xcode on MacOS, open it once and agree to the license
+1. Install Xcode on macOS, open it once and agree to the license
 2. Open IntelliJ IDEA/Android Studio, go to `Preferences -> Plugins -> Marketplace`
 3. Type `MobiVM` on the search box and click `Install`
 
 ### 2. Manual Download
 
-1. Install Xcode on MacOS, open it once and agree to the license
+1. Install Xcode on macOS, open it once and agree to the license
 2. Download the MobiVM IntelliJ IDEA plugin Zip file:
     - [IntelliJ IDEA plugin **Snapshot** builds](/downloads.html?prefix=snapshots/idea)
     - [IntelliJ IDEA plugin **Release** builds](/downloads.html?prefix=releases/idea)
@@ -36,9 +36,9 @@ To install the MobiVM plugin for Eclipse:
 
 1. Install Xcode on MacOS, open it once and agree to the license
 2. Open Eclipse, go to `Help -> Install New Software...`
-3. Click `Add...` and enter the update URL from below
-    - [Eclipse plugin **Snapshot** update URL]()
-    - [Eclipse plugin **Release** update URL]()
+3. Click `Add...` and enter the following update URL:
+    - Eclipse plugin **Snapshot** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/snapshots/eclipse/`
+    - Eclipse plugin **Release** update URL: `https://mobivm.s3.eu-west-3.amazonaws.com/releases/eclipse/`
 4. Select `MobiVM for Eclipse` and finish the installation
 
 ## Gradle
